@@ -9,7 +9,7 @@ using UnityEngine;
 
 public class UIelement : MonoBehaviour
 {
-    /// This is a "virtual" function so it can be overridden by classes that inherit from the UIelement class
+    // This is a "virtual" function so it can be overridden by classes that inherit from the UIelement class
     public virtual void UpdateUI()
     {
 
